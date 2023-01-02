@@ -1,2 +1,2 @@
 hi I am Karol 
-I'm little developers Python, html, javascripts and learn c#
+I'm little developers Python, html, javascripts and learning c#
